@@ -1,4 +1,6 @@
+//Yeswanth Sai Edhala code
 // Select DOM elements
+
 const dogImage = document.getElementById('dog-image');
 const nextBtn = document.getElementById('next-btn');
 
